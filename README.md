@@ -32,4 +32,5 @@ Usage
 Requirements / Links
 ====================
 * pynrrd: https://github.com/mhe/pynrrd
+* OSCaR: http://www.cs.toronto.edu/~nrezvani/OSCaR.html
 * Slicer: http://www.slicer.org
